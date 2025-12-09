@@ -5,7 +5,7 @@ description: ""
 image: ""
 tags: [welcome]
 category: "Life Stuff"
-draft: true
+draft: false
 lang: ""
 ---
 
