@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "GitHub",
-			url: "https://github.com/aadishsamir123/aadish-blogs",
+			url: "https://github.com/aadishsamir123/blog",
 			external: true,
 		},
 	],
