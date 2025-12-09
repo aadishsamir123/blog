@@ -41,6 +41,11 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
+			name: "RSS Feed",
+			url: "/rss.xml",
+			external: false,
+		},
+		{
 			name: "My Website",
 			url: "https://aadish.dev",
 			external: true,
