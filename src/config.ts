@@ -33,6 +33,10 @@ export const siteConfig: SiteConfig = {
 			src: "/favicon/favicon.png", // Path of the favicon, relative to the /public directory
 		},
 	],
+	// Google Analytics - replace with your measurement ID
+	googleAnalytics: {
+		id: "G-MM28T9KL97",
+	},
 };
 
 export const navBarConfig: NavBarConfig = {
