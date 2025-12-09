@@ -2,4 +2,4 @@
 
 I'm Aadish, and this is my blog site
 
-::github{repo="aadishsamir123/aadish-blogs"}
+::github{repo="aadishsamir123/blog"}
