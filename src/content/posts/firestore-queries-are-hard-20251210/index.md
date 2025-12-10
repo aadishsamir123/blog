@@ -2,7 +2,7 @@
 title: Firestore queries are hard.
 published: 2025-12-10
 description: ""
-image: "cover-image.png"
+image: ""
 tags: [appdev, app:shopsync]
 category: "App Building"
 draft: false
@@ -10,6 +10,8 @@ lang: ""
 ---
 
 December 10, 2025 | 10:45 PM
+
+![Category breakdown showing the category ID instead of name](image1.png)
 
 So when building a query for the new list insights feature in ShopSync, I kinda messed something up and it resulted in the item category IDs showing up rather than the item category names showing up.
 
