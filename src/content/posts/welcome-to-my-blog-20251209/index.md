@@ -9,6 +9,8 @@ draft: false
 lang: ""
 ---
 
+December 9, 2025 | 9:30 AM
+
 Welcome to my blog!
 Here I'll be posting updates about my apps, development, app development and more!
 
