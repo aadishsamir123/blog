@@ -20,3 +20,5 @@ Other than that, the insights feature is coming up really good so far, I just ha
 UPDATE 1 -- December 10, 2025 | 10:55 PM
 
 I've fixed the issue! The list/user insights feature is done and I'll create a PR and sleep.
+
+![Fixed the category breakdown issue](image2.png)
