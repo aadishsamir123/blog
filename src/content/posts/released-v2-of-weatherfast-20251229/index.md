@@ -1,6 +1,6 @@
 ---
 title: Released v2 of WeatherFast!
-published: 2025-12-11
+published: 2025-12-29
 description: ""
 image: ""
 tags: [appdev, app:weatherfast]
